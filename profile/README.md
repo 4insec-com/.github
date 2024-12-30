@@ -29,7 +29,6 @@ Just contact us
 
 🍿 **Fun facts about us**  
 - We’re passionate about building innovative softwares unrelated to security at all during our downtime!  
-- Our team thrives on coffee, brainstorming, and the thrill of solving cybersecurity puzzles.  
 
 ---
 
